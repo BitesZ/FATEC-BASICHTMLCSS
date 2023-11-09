@@ -1,0 +1,16 @@
+body {
+    background-color: #6a4305;
+    background-image: url(images/Fundo-pizza.jpg)
+}
+h1 {
+    color:yellow;
+    font-size: 100px;
+}
+h2 {
+    color:yellow;
+    font-size: 50px;
+}
+p {
+    font-size: 30px;
+    color: gold;
+}
